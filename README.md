@@ -56,7 +56,7 @@
 ## 💪🏻 Now Working On
 [![**PythOS**](/assets/PythOS.png)](https://milo1004.github.io/test.html)
 <br>
-## [**PythOS**](https://github.com/milo1004/PythOS) by [Milo1004](https://github.com/milo1004)
+### [PythOS](https://github.com/milo1004/PythOS) by [Milo1004](https://github.com/milo1004)
 
 <br>
 

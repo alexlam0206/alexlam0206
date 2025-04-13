@@ -1,13 +1,14 @@
 ## Hi, I'm Alex Lam ✨
 
 🏫 A student in **Hong Kong** 🇭🇰
+<br>
 
 😀 Pronoun: he/him/his
-
+<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alexlam0206) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AlexLam0206) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Alex-Lam-441) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Empty-Run-7395) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/AlexLam0206) 
-
+<br>
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -40,18 +41,18 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
+<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexlam0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alexlam0206&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlam0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexlam0206&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
 ![](/assets/quote.svg)
-
+<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexlam0206&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 <br>
@@ -59,5 +60,6 @@
 [![**PythOS**](/assets/PythOS.png)](https://milo1004.github.io/test.html)
 <br>
 **PythOS** by [Milo1004](https://github.com/milo1004)
+<br>
 ### 🙏🏻 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexlam0206) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AlexLam0206) 

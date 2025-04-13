@@ -1,6 +1,6 @@
 ## Hi, I'm Alex Lam ✨
 
-🏫 A student in **Hong Kong** 🇭🇰
+🏫 A student from **Hong Kong** 🇭🇰
 <br>
 
 😀 Pronoun: he/him/his

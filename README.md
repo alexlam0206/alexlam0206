@@ -56,12 +56,11 @@
 ## 💪🏻 Now Working On
 [![**PythOS**](/assets/PythOS.png)](https://milo1004.github.io/test.html)
 <br>
-**PythOS** by [Milo1004](https://github.com/milo1004)
+## [**PythOS**](https://github.com/milo1004/PythOS) by [Milo1004](https://github.com/milo1004)
 
 <br>
 
 ---
-
 
 ##### 🙏🏻 You can help me with a cup of coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexlam0206) 

@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=alexlam0206&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
-![](/asstes/quote.svg)
+![](/assets/quote.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexlam0206&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)

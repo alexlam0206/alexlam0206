@@ -42,21 +42,25 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 <br>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexlam0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alexlam0206&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlam0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-### ✍️ Quote
+##
 ![Quote](assets/quote.svg)
 <br>
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexlam0206&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 <br>
-### 💪🏻 Now Working On
+## 💪🏻 Now Working On
 [![**PythOS**](/assets/PythOS.png)](https://milo1004.github.io/test.html)
 <br>
 **PythOS** by [Milo1004](https://github.com/milo1004)
+
 <br>
-### 🙏🏻 You can help me by Donating
+
+---
+
+##### 🙏🏻 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexlam0206) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AlexLam0206) 

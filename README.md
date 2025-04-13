@@ -1,6 +1,6 @@
 ## Hi, I'm Alex Lam ✨
 
-🏫 Student in Hong Kong 🇭🇰
+🏫 A student in **Hong Kong** 🇭🇰
 
 😀 Pronoun: he/him/his
 
@@ -19,8 +19,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexlam0206&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://alexlam0206.github.io/quote.html)
+### ✍️ Quote
+![](https://alexlam0206.github.io/quote.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexlam0206&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)

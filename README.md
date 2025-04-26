@@ -1,4 +1,4 @@
-## Hi, I'm Alex Lam ✨
+## Hi, I'm **Alex Lam** ✨
 
 🏫 A student from **Hong Kong** 🇭🇰
 <br>

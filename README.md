@@ -53,11 +53,5 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexlam0206&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 <br>
-## 💪🏻 Now Working On
-[![**PythOS**](/assets/PythOS.png)](https://milo1004.github.io/test.html)
-<br>
-### [PythOS](https://github.com/milo1004/PythOS) by [Milo1004](https://github.com/milo1004)
-
-<br>
 
 ---

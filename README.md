@@ -5,13 +5,14 @@
   ---
 
 <p>
-- 🔭 I’m currently working on [PythOS](https://pythos.pages.dev/)
+  
+🔭 I’m currently working on [PythOS](https://pythos.pages.dev/)
 
-- 🌱 I’m currently learning **Rust, C++**
+🌱 I’m currently learning **Rust, C++**
 
-- 👨‍💻 All of my projects are available at [https://nok.is-a.dev/](https://nok.is-a.dev/)
+👨‍💻 All of my projects are available at [https://nok.is-a.dev/](https://nok.is-a.dev/)
 
-- How to reach me **alexlamnok@proton.me**
+How to reach me **alexlamnok@proton.me**
 </p>
 
 <h3 align="left">Connect with me:</h3>

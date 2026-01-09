@@ -2,13 +2,12 @@
 <h2 align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/844aadfd-b6e2-4b4a-bd6e-3f66d77b8910" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexlam0206&label=Profile%20views&color=0e75b6&style=flat" alt="alexlam0206" /> </p>
 
-  ---
 
 <h5>
   
 I’m currently working on [WordGarden](https://wordgarden.web.app/)
 
-Hosting Jus'STUDY @ YSWS @ Hack Club with [@Rishaan](https://github.com/Rishaan2202)
+Making [Jus'STUDY](https://github.com/vividsystem/jusstudy/) Happen @ YSWS @ [Hack Club](https://hackclub.com) with [@Rishaan](https://github.com/Rishaan2202)
 
 🌱 I’m currently learning **Rust, C++**
 

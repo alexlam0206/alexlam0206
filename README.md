@@ -7,9 +7,5 @@
   
 I’m currently working on [WordGarden](https://wordgarden.web.app/)
 
-Making [Jus'STUDY](https://github.com/vividsystem/jusstudy/) Happen @ YSWS @ [Hack Club](https://hackclub.com) with [@Rishaan](https://github.com/Rishaan2202)
-
-🌱 I’m currently learning **Rust, C++**
-
 My Portfolio: [nok.is-a.dev](https://nok.is-a.dev/)
 </h5>
